@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Willard Hostland Banner">
+  <img src="MygitBanner.png" width="100%">
 </p>
 
 # 👋 Hi, I'm **Willard Hostland**
